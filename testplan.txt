@@ -1,0 +1,4 @@
+pgmAssembleTest.sh, pgmCompTest.sh, pgmConvertTest.sh, pgmCovertTest.sh
+pgmEchoTest.sh, pgmTAssembleTest.sh, and pgmTileTest.sh are scripts used
+to test appropriate program.
+testscript.sh - run sequentially all tests

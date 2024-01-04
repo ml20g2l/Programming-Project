@@ -1,0 +1,4 @@
+pgma2b.c, pgmAssemble.c, pgmb2a.c, pgmComp.c, pgmEcho.c,
+pgmReduce.c, and pgmTile.c are files contained main functions for 
+appropriate programs
+pgmUtils.c contains a set of useful functions to operate with PGM-files
